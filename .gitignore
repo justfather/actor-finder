@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.vercel
+.venv/
+venv/
+config/*.json
+config/actor-name-finder-*.json
